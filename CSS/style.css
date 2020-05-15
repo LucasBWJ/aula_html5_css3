@@ -1,0 +1,51 @@
+body {
+    background: #F6AD68;
+    margin-left: 700px;
+    margin-right: 700px;
+    align-items: center;
+}
+
+header {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+H1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+H2 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+P {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.IMAGEM_PADRAO {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 600px;
+}
+
+.GRUPO_IMAGEM_PARCEIRO {
+    display: flex;
+
+}
+.IMAGEM_PARCEIRO {
+    flex: auto;
+}
+
+footer {
+    margin-bottom: 30px;
+    margin-top: 60px;
+}
+
+nav {
+    text-align-last: baseline;
+
+}
